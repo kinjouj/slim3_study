@@ -1,0 +1,6 @@
+dependency
+
+lib/slim3-gen.jar
+war/WEB-INF/lib/slim3-1.0.13.jar
+war/WEB-INF/lib/junit-4.8.2.jar
+war/WEB-INF/lib/appengine-api-1.0-sdk-1.5.3.jar
